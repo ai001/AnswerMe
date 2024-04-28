@@ -1,0 +1,7 @@
+Flask
+Flask-Script
+Flask-WTF
+Flask-HTTPAuth
+Jinja2
+MarkupSafe
+Werkzeug

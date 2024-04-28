@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}Interactive FAQs{% endblock %}
+
+{% block content %}
+
+{% include "navbar.html" %}
+
+<div class="row">
+
+  <div class="col-md-6">
+    <div class="form-group">
+        <label for="response">Response:</label>
+        <textarea readonly class="form-control" rows="20" id="response" style="background-color: #FDFEFE;"></textarea>
+        <p>
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Please ask?" id='question'>
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="submit" id='hit'>
+                    <i class="fa fa-exchange"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

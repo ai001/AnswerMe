@@ -1,0 +1,127 @@
+QnA = [
+    ('Hello', 'Hi'), 
+    ('Hi', 'Hello'),
+    (
+        'Can you provide Airside pass background checks for all UK airports?',
+        'Yes, because we have detailed knowledge of the specific regulations at all UK airports and already support many companies with their needs nationwide.'
+    ),
+    (
+        'Can you provide Airside pass background checks for all airports?',
+        'Yes, but only for the UK as we specilize in UK market and we have detailed knowledge of the specific regulations at all UK airports and already support many companies with their needs nationwide.'
+    ),
+    (
+        'Can you provide individual services or do we have to outsource all checks to Procius?',
+        'Most of our clients trust us to perform all of their Airside background checks however; our services can be deployed individually or bundled together to form a fully outsourced screening pack.'
+    ),
+    (    
+        'Can you provide different types of checks for staff in different roles and locations?',
+        'Of course; although for Airside passes it may be that General Security Awareness Training is not required for employees in certain roles. We can accommodate any specific requirements you have.'
+    ),
+    (    
+        'How many staff can be checked at one time?',
+        'Procius has a proven track-record in comfortably handling the entire throughput of the largest airport employers. Not many background-checking companies can make this claim! So we can cater for all numbers of staff.'
+    ),
+    (
+        'Are the checks that you conduct approved by the relevant airport authority?',
+        'We work very closely with each airport authority to fully understand their ID standards which ensures every completed dossier meets their requirements. As a result our rejection rate at ID units is the lowest in the industry. (The ID units themselves tell us so.)'
+    ),
+    (    
+        'How does Procius prevent checks becoming invalid after time, hence avoiding ID centres rejections?',
+        'We carefully sync the request of all time-limited documents including UK and Overseas CRCs as well as the most recent reference This ensures that there is sufficient validity on each check at the point of dossier completion.',
+    ),
+    (    
+        'Once the checks are complete how are they sent to our signatories and what is contained?',
+        'In most cases, you’ll need the dossier in hard copy. So we’ll post or courier all of the checks to you once quality checked together with a pre-populated pass application form or summary sheet, as appropriate.',
+    ),
+    (    
+        'How long does the background checking process take?',
+        'The average time is between 21-28 days. Where we are delivering a timed service (to an individuals start date in the future) the turnaround time becomes irrelevant and the timely dispatch before start date is more critical.'
+    ),
+    (    
+        'How much does an airside pass background check cost?',
+        'It will depend on whether you require CRC, OCRC and/or GSAT in addition to referencing; for a solution tailored to your individuals needs please contact one of our business solutions experts, who will be happy to advise.'
+    ),
+    (
+        'If required, can we split the cost of these checks with the applicant? If so, can you collect the applicant contribution?',
+        'No problem, we can facilitate this; we already do this for a number of employers.'
+    ),
+    (    
+        'What type of reference checks do you carry out?',
+        'We collect references from employers, educational establishments, professional associations, personal / character referees and professional advisors. Our bespoke technology allows us to screen applicants to any standard covering any timeframe. Click on our “Services” menu to find out more.'
+    ),
+    (    
+        'How do Procius manage the chasing of references, to minimise the time involved?',
+        'Our MyCheck platform manages this critical workflow, to ensure all references are chased often enough to expedite the response. At any one time we have around 10,000 reference requests in inboxes and in-trays around the globe.'
+    ),
+    (    
+        'How can we see the progress and the status of reference requests?',
+        'It’s easy. Log into your MyCheck account and find the relevant applicant. The status of each reference is live on the screen, and you can even read our comprehensive tracking notes to see the entire case history!'
+    ),
+    (    
+        'What level of referencing should we undertake for new hires if we are not regulated to do so?',
+        'This is a balance of risk mitigation versus running a smooth recruitment process. The barrier should be set at a sensible height and always proportionate to the role you’re recruiting for. Call us for a no obligation discussion on how to get the balance right for your organisation.'
+    ),
+    (    
+        'What is the difference between the various types of criminal record check available in the UK?',
+        'The largest difference is whether or not spent convictions are disclosed. After that, the differences lie in which databases and lists are checked as part of the disclosure.'
+    ),
+    (    
+        'Can you process each level of check?',
+        'Yes, we can provide Basic, Standard and Enhanced disclosures, plus access to the barred list services. All are processed electronically resulting in a timely and accurate submission.'
+    ),
+    (    
+        'Who is legally allowed to request a criminal record check?',
+        'A basic disclosure is available to all employers (subject to them following certain procedures). Standard and Enhanced disclosures are restricted in their use. Please call us for tailored guidance on this subject.'
+    ),
+    (    
+        'We require our new hires to pay the direct cost of obtaining a UK criminal record check. Can you facilitate this for us?',
+        'No problem, we can facilitate this; we already do this for a number of employers.'
+    ),
+    (    
+        'What do we need to provide before Procius can start our employee checks?',
+        'Once your MyCheck account is set up; you simply need to enter each applicants email address and start date (if applicable) and we do the rest!'
+    ),
+    (    
+        'How do I see an update on the status of an applicant?',
+        'It’s easy. Log into your MyCheck account and find the relevant applicant. The status of each applicant and check is live on the screen, and you can even read our tracking notes to see the entire case history!'
+    ),
+    (    
+        'All of the references are showing as received – when will the dossier be sent to me?',
+        'When all references show as received and all other checks are in place, the file will enter our quality-control processes. Typically you are 1-3 days away from receiving the dossier, but if you would like more detailed estimate, please contact your relationship coordinator.'
+    ),
+    (    
+        'Are we able to access any systems to identify where our future employees are in the screening process?',
+        'Absolutely! Just log into your MyCheck account and find the relevant employee. The status of each of applicant and their checks is live on the screen, and you can even read our comprehensive tracking notes to see the entire case history!'
+    ),
+    (    
+        'How do I unlock my account?',
+        'It is possible to be locked out of your account; normally this is due to multiple unsuccessful login attempts. If this has happened, it’s not a problem, simply call our friendly help centre, they will identify you and unlock your account.'
+    ),
+    (    
+        'How can I get an update on my background checks?',
+        'It’s easy. Simply log into your MyCheck account and you’ll see that the status of each individual check and reference live on the screen.'
+    ),
+    (    
+        'When will my background checks be finished?',
+        'This typically happens within a week of the final reference or piece of data being marked as “received” on MyCheck.'
+    ),
+    (    
+        'I have just received an automated email from Procius - What do I need to do next?',
+        'If the email specifically asks you to provide certain information or make contact with our office, please act on this request swiftly. The screening process can be complex and will often need your intervention to complete the checks in a timely manner. On occasions we will send you an email to update you on the status of your checks – simply read the email to understand how your checks are progressing.'
+    ),
+    (    
+        'How do I know you have received my email?',
+        'Any email you send to our helpdesk email address will always be answered initially by an automated message acknowledging receipt of your email. You can then be sure that your email will be answered by one of our helpdesk staff at the earliest opportunity.'
+    ),
+    (    
+        'Why are my references showing as pending?',
+        '“Pending” means that we have received a response from the referee but the information may not be acceptable in its current state. Our team will be in the process of contacting the referee to resolve the problem and the status will be changed to “Received” once this has been completed.'
+    ),
+    (    
+        'How can I update the information in my profile?',
+        'Once you have completed your online profile and we have commenced your background checks, you are not able to edit information contained within your profile. If you made an error in your profile or your circumstances change, please email our helpdesk or telephone a member of our screening team for assistance.'
+    ),
+    (    
+        'What is the best way to get documents to you?',
+        'The best way to submit proof-of-identity or proof-of-address documents to us is by uploading them directly into your MyCheck account while completing your profile. For other documents, where we ask you to submit original copies to us, we strongly recommend the use of recorded or special delivery services, since in many cases the original documents may have taken you great efforts to obtain – and it is always a major disappointment when documents are lost in the standard postal system.'
+    )]
